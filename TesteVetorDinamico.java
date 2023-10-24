@@ -16,7 +16,7 @@ public class TesteVetorDinamico {
             System.out.println("\n***************************");
 
             // dormir 5 segundos
-            Thread.sleep(5000);
+            Thread.sleep(1000);
         }
     }
 }
